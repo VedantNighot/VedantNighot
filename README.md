@@ -55,12 +55,15 @@ Currently focused on improving my skills in full-stack development and data stru
 
 ## 🌟 Featured Project
 
-### 🚗 GTA VI Animated Landing Page
+### 🎵 The Band Company Project
 
-A visually stunning animated landing page built using **Vite + JavaScript + Modern CSS animations**.
+A full-stack web application built using modern technologies, featuring a responsive UI, dynamic backend, and seamless user experience.
+
+🔧 Tech Stack: **MERN Stack + Java + Spring Boot**
 
 🔗 Live Project
 https://www.thebandcompany.in/
+
 
 --
 
