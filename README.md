@@ -59,10 +59,10 @@ Currently focused on improving my skills in full-stack development and data stru
 
 A visually stunning animated landing page built using **Vite + JavaScript + Modern CSS animations**.
 
-🔗 Project Repository
-https://github.com/VedantNighot/3D-Landiing-Page
+🔗 Live Project
+https://www.thebandcompany.in/
 
----
+--
 
 ## 📫 Connect With Me
 
