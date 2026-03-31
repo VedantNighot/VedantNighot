@@ -10,31 +10,32 @@ Currently focused on improving my skills in full-stack development and data stru
 
 ## 🚀 About Me
 
-- 🎓 BTech Student
-- 💻 Frontend Developer
-- 🌱 Currently learning **Advanced JavaScript & Full Stack Development**
-- 🧠 Practicing **Data Structures and Algorithms**
-- 🎯 Goal: Become a **high-level software engineer & build impactful products**
+* 🎓 BTech Student
+* 💻 Full Stack Developer
+* 🌱 Currently learning **Advanced JavaScript, MERN Stack & Spring Boot**
+* 🧠 Practicing **Data Structures and Algorithms**
+* 🎯 Goal: Become a **high-level software engineer & build impactful products**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,nodejs,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,mongodb,express,react,spring,git,github,vscode" />
 </p>
 
 ---
 
 ## 🧠 Skills
 
-- Frontend Development
-- Responsive Web Design
-- JavaScript Development
-- Problem Solving
-- Data Structures & Algorithms
-- API Integration
-- UI/UX Focused Design
+* Full Stack Development (MERN)
+* Java Development
+* Spring & Spring Boot
+* REST API Development
+* Responsive Web Design
+* Problem Solving
+* Data Structures & Algorithms
+* UI/UX Focused Design
 
 ---
 
@@ -55,9 +56,10 @@ Currently focused on improving my skills in full-stack development and data stru
 ## 🌟 Featured Project
 
 ### 🚗 GTA VI Animated Landing Page
+
 A visually stunning animated landing page built using **Vite + JavaScript + Modern CSS animations**.
 
-🔗 Project Repository  
+🔗 Project Repository
 https://github.com/VedantNighot/3D-Landiing-Page
 
 ---
